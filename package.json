@@ -3,7 +3,8 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-smartthings": "0.0.20"
+        "node-red-contrib-smartthings": "0.0.20",
+        "node-red-contrib-postgresql": "0.6.0"
     },
     "node-red": {
         "settings": {
